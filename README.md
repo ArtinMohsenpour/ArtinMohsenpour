@@ -8,6 +8,9 @@ I'm a front-end web developer and recently learning some backend technologies su
     <a href="https://artinmohsenpour.com/" style="width: 5rem; height: 5rem;">
         <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-yellow" style="width: 20%; height: 20%;"/>
     </a>
+    <a href="https://www.linkedin.com/in/artin-mohsenpour/" style="width: 5rem; height: 5rem;">
+        <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue" style="width: 20%; height: 20%;"/>
+    </a>
     <a href="https://www.youtube.com/@ArtinDE" style="width: 5rem; height: 5rem;">
         <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-Subscribe-red" style="width: 30%; height: 30%;"/>
     </a>
