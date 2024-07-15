@@ -12,7 +12,7 @@ I'm a front-end web developer and recently learning some backend technologies su
         <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue" style="width: 20%; height: 20%;"/>
     </a>
     <a href="https://www.youtube.com/@ArtinDE" style="width: 5rem; height: 5rem;">
-        <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-red" style="width: 30%; height: 30%;"/>
+        <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-red" style="width: 20%; height: 20%;"/>
     </a>
 </p>
 
