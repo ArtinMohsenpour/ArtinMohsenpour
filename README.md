@@ -6,17 +6,17 @@ I'm a front-end web developer and recently learning some backend technologies su
 <p style="display: flex; justify-content: space-between; align-items: center; padding: 0 10px;">
     <div style="margin-right: 30px;">
         <a href="https://artinmohsenpour.com/" style="width: 5rem; height: 5rem;">
-            <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-yellow" style="width: 100%; height: 100%;"/>
+            <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-yellow" style="width: 10%; height: 10%;"/>
         </a>
     </div>
     <div style="margin-right: 30px;">
         <a href="https://www.linkedin.com/in/artin-mohsenpour/" style="width: 5rem; height: 5rem;">
-            <img alt="LinkedIn" title="Visit my LinkedIn profile" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue" style="width: 100%; height: 100%;"/>
+            <img alt="LinkedIn" title="Visit my LinkedIn profile" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue" style="width: 10%; height: 10%;"/>
         </a>
     </div>
     <div>
         <a href="https://www.youtube.com/@ArtinDE" style="width: 5rem; height: 5rem;">
-            <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-red" style="width: 100%; height: 100%;"/>
+            <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-red" style="width: 10%; height: 10%;"/>
         </a>
     </div>
 </p>
