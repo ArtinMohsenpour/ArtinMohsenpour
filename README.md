@@ -19,24 +19,57 @@ I am a passionate front-end web developer currently expanding my expertise into 
 </div>
 
 #
-<div style="font-family: Arial, sans-serif; padding: 20px;">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/germany.png" alt="German Icon" style="width: 24px; height: 24px;">
-        <span style="font-size: 18px;">German: Very Good (B1.2 - Learning)</span>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Proficiency</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+        .language-section {
+            font-family: 'Roboto', sans-serif;
+            padding: 20px;
+        }
+        .language-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        .language-icon {
+            width: 24px;
+            height: 24px;
+        }
+        .language-text {
+            font-size: 18px;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div class="language-section">
+        <div class="language-item">
+            <img src="https://img.icons8.com/color/48/000000/germany.png" alt="German Icon" class="language-icon">
+            <span class="language-text">German: Very Good (B1.2 - Learning)</span>
+        </div>
+        <div class="language-item">
+            <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English Icon" class="language-icon">
+            <span class="language-text">English: Fluent (C1)</span>
+        </div>
+        <div class="language-item">
+            <img src="https://img.icons8.com/color/48/000000/iran.png" alt="Persian Icon" class="language-icon">
+            <span class="language-text">Persian: Native</span>
+        </div>
+        <div class="language-item">
+            <img src="https://img.icons8.com/color/48/000000/turkey.png" alt="Turkish Icon" class="language-icon">
+            <span class="language-text">Turkish: Intermediate (B1)</span>
+        </div>
     </div>
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English Icon" style="width: 24px; height: 24px;">
-        <span style="font-size: 18px;">English: Fluent (C1)</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/iran.png" alt="Persian Icon" style="width: 24px; height: 24px;">
-        <span style="font-size: 18px;">Persian: Native</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/turkey.png" alt="Turkish Icon" style="width: 24px; height: 24px;">
-        <span style="font-size: 18px;">Turkish: Intermediate (B1)</span>
-    </div>
-</div>
+</body>
+</html>
+
 
 #
 
