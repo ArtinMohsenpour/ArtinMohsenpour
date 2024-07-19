@@ -1,6 +1,5 @@
 # Abolfazl Mohsenpour
 mohsenpour.artin@gmail.com | +49 163 789 4136 | 50931 Köln, Deutschland
-LinkedIn | Portfolio | GitHub
 Familienstand: ledig | Geburtsdatum: 12.04.1998
 #
 `Software Deveoper | Frontend Web Developer | IT Research & Data Analysis Specialist`
