@@ -18,7 +18,27 @@ I am a passionate front-end web developer currently expanding my expertise into 
         </a>
 </div>
 
+#
+<div style="font-family: Arial, sans-serif; padding: 20px;">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/germany.png" alt="German Icon" style="width: 24px; height: 24px;">
+        <span style="font-size: 18px;">German: Very Good (B1.2 - Learning)</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English Icon" style="width: 24px; height: 24px;">
+        <span style="font-size: 18px;">English: Fluent (C1)</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/iran.png" alt="Persian Icon" style="width: 24px; height: 24px;">
+        <span style="font-size: 18px;">Persian: Native</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <img src="https://img.icons8.com/color/48/000000/turkey.png" alt="Turkish Icon" style="width: 24px; height: 24px;">
+        <span style="font-size: 18px;">Turkish: Intermediate (B1)</span>
+    </div>
+</div>
 
+#
 
 
 
