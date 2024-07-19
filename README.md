@@ -2,6 +2,7 @@
 mohsenpour.artin@gmail.com | +49 163 789 4136 | 50931 Köln, Deutschland
 LinkedIn | Portfolio | GitHub
 Familienstand: ledig | Geburtsdatum: 12.04.1998
+#
 `Software Deveoper | Frontend Web Developer | IT Research & Data Analysis Specialist`
 
 I am a front-end web developer currently expanding my expertise into backend technologies like C# and ASP.NET. At OWL University of Applied Sciences and Arts, I contribute to pushing the boundaries of IT research through programming, data analysis, and collaborative projects. My studies in Information Technology shape my approach as I work toward completing my master's degree in June 2024. Alongside my academic pursuits, I apply my specialized skills in JavaScript, TypeScript, React.js, and Next.js to develop dynamic web solutions. My portfolio includes projects ranging from an e-commerce site to an advanced banknote authentication system, demonstrating my ability to transform complex problems into user-friendly applications.
