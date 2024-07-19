@@ -70,7 +70,6 @@ I am a passionate front-end web developer currently expanding my expertise into 
 </body>
 </html>
 
-
 #
 
 
