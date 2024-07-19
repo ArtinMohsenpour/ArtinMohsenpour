@@ -29,12 +29,12 @@ I am a passionate front-end web developer currently expanding my expertise into 
         <span style="font-size: 18px; font-weight: 500;">English: Fluent (C1)</span>
     </div>
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/iran.png" alt="Persian Icon" style="width: 24px; height: 24px;">
-        <span style="font-size: 18px; font-weight: 500;">Persian: Native</span>
+            <span style="font-size: 18px; font-weight: 500;">Persian: Native</span>
+        <img src="https://img.icons8.com/color/48/000000/iran.png" alt="Persian Icon" style="width: 24px; height: 24px;"> 
     </div>
     <div style="display: flex; align-items: center; gap: 10px;">
+        <span style="font-size: 18px; font-weight: 500;">Turkish: Intermediate (B1)</span> 
         <img src="https://img.icons8.com/color/48/000000/turkey.png" alt="Turkish Icon" style="width: 24px; height: 24px;">
-        <span style="font-size: 18px; font-weight: 500;">Turkish: Intermediate (B1)</span>
     </div>
 </div>
 
