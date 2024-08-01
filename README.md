@@ -1,68 +1,15 @@
-# Abolfazl Mohsenpour
-mohsenpour.artin@gmail.com | +49 163 789 4136 | 50931 Köln, Deutschland
-Familienstand: ledig | Geburtsdatum: 12.04.1998
-#
-`Software Deveoper | Frontend Web Developer | IT Research & Data Analysis Specialist`
+<h1 align="center">Hi 👋, I'm Abolfazl Mohsenpour</h1>
+<h3 align="center">Software Deveoper | Frontend Web Developer | IT Research & Data Analysis Specialist</h3>
 
-I am a passionate front-end web developer currently expanding my expertise into backend technologies like C# and ASP.NET. At OWL University of Applied Sciences and Arts, I contribute to IT research through programming, data analysis, and collaborative projects. My education in Information Technology shapes my approach as I work towards completing my master's degree in June 2024. Alongside my academic pursuits, I apply my specialized skills in JavaScript, TypeScript, React.js, and Next.js to create dynamic web solutions. My portfolio includes projects ranging from an e-commerce site to an advanced banknote authentication system, showcasing my ability to translate complex problems into user-friendly applications.
+- 🔭 I’m currently working on [PhoneCase E-commerce Website](https://phone-case-app.vercel.app/)
 
-<div style="display: inline; justify-content: left; padding: 0 10px; margin: 0 30px; gap: 30px;">
-        <a href="https://artinmohsenpour.com/" style="display: inline-block; width: 5rem; height: 5rem; margin-right: 30px;">
-            <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-yellow" style="width: 10%; height: 10%;"/>
-        </a>
-        <a href="https://www.linkedin.com/in/artin-mohsenpour/" style="display: inline-block; width: 5rem; height: 5rem; margin-right: 30px;">
-            <img alt="LinkedIn" title="Visit my LinkedIn profile" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue" style="width: 10%; height: 10%;"/>
-        </a>
-        <a href="https://www.youtube.com/@ArtinDE" style="display: inline-block; width: 5rem; height: 5rem; margin-right: 30px;">
-            <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-red" style="width: 10%; height: 10%;"/>
-        </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/artin-mohsenpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artin-mohsenpour" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/artinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="artinde" height="30" width="40" /></a>
+</p>
 
-#
-<div style="font-family: 'Roboto', sans-serif; padding: 20px;">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/germany.png" alt="German Icon" style="width: 14px; height: 14px;">
-        <span style="font-size: 18px; font-weight: 500;">German: Very Good (B1.2 - Learning)</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English Icon" style="width: 14px; height: 14px;">
-        <span style="font-size: 18px; font-weight: 500;">English: Fluent (C1)</span>
-    </div>
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;"> 
-            <img src="https://img.icons8.com/color/48/000000/iran.png" alt="Persian Icon" style="width: 14px; height: 14px;"> 
-            <span style="font-size: 18px; font-weight: 500;">Persian: Native</span>  
-    </div>
-    <div style="display: flex; align-items: center; gap: 10px;">
-            <img src="https://img.icons8.com/color/48/000000/turkey.png" alt="Turkish Icon" style="width: 14px; height: 14px;">
-        <span style="font-size: 18px; font-weight: 500;">Turkish: Intermediate (B1)</span>  
-    </div>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
-
-#
-
-
-
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
----
-
-### 📊 Stats
-![Artin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtinMohsenpour&show_icons=true&theme=algolia)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=artinmohsenpour&show_icons=true&locale=en&layout=compact" alt="artinmohsenpour" /></p>
