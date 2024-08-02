@@ -14,7 +14,7 @@ I am a passionate front-end web developer currently expanding my expertise into 
             <img alt="LinkedIn" title="Visit my LinkedIn profile" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue" style="width: 10%;gap:20%; height: 10%;"/>
         </a>
         <a href="https://www.youtube.com/@ArtinDE" style="display: inline-block; width: 7rem; gap:20% ; height: 5rem; margin-right: 30px;">
-            <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-red" style="gap:20%;width: 10%margin-right: 30px; height: 10%;"/>
+            <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-red" style="width: 10%;margin-left: 30px; height: 10%;"/>
         </a>
 </div>
 
