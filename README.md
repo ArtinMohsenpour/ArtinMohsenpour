@@ -13,7 +13,7 @@ I am a passionate front-end web developer currently expanding my expertise into 
         <a href="https://www.linkedin.com/in/artin-mohsenpour/" style="display: inline-block; width: 5rem; height: 5rem; margin-right: 30px;">
             <img alt="LinkedIn" title="Visit my LinkedIn profile" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue" style="width: 10%; height: 10%;"/>
         </a>
-        <a href="https://www.youtube.com/@ArtinDE" style="display: inline-block; width: 5rem; gap:20% ; height: 5rem; margin-right: 30px;">
+        <a href="https://www.youtube.com/@ArtinDE" style="display: inline-block; width: 7rem; gap:20% ; height: 5rem; margin-right: 30px;">
             <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YouTube-red" style="width: 10%; height: 10%;"/>
         </a>
 </div>
