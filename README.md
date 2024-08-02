@@ -10,7 +10,7 @@ I am a passionate front-end web developer currently expanding my expertise into 
         <a href="https://artinmohsenpour.com/" style="display: inline-block; width: 5rem; height: 5rem; margin-right: 30px;">
             <img alt="Portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-yellow" style="width: 10%; height: 10%;"/>
         </a>
-        <a href="https://www.linkedin.com/in/artin-mohsenpour/" style="display: inline-block; width: 5rem; height: 5rem; margin-right: 30px;">
+        <a href="https://www.linkedin.com/in/artin-mohsenpour/" style="display: inline-block; width: 5rem; height: 5rem; margin-right: 30rem;">
             <img alt="LinkedIn" title="Visit my LinkedIn profile" src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue" style="width: 10%; height: 10%;"/>
         </a>
         <a href="https://www.youtube.com/@ArtinDE" style="display: inline-block; width: 5rem; height: 5rem; margin-right: 30px;">
