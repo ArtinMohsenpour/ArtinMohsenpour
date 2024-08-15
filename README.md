@@ -21,17 +21,16 @@ I am a passionate front-end web developer currently expanding my expertise into 
 #
 <div style="font-family: 'Roboto', sans-serif; padding: 20px;">
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-        🇩🇪 <span style="font-size: 18px; font-weight: 500;">German: Very Good (B1.2 - Learning)</span>         
+        🇩🇪: <span style="font-size: 18px; font-weight: 500;">German: Very Good (B1.2 - Learning)</span>         
     </div>
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 48 48"><path fill="#B22234" d="M0 0h48v48H0z"/><path fill="#FFF" d="M0 5.91h48v5.91H0zM0 17.73h48v5.91H0zM0 29.55h48v5.91H0zM0 41.36h48v5.91H0z"/><path fill="#3C3B6E" d="M0 0h19.2v19.2H0z"/><path fill="#FFF" d="M2.7 2.7l1.5 4.7h4.9l-3.9 2.9 1.5 4.7-3.9-2.8-3.9 2.8 1.5-4.7-3.9-2.9h4.9z"/></svg>
-        <span style="font-size: 18px; font-weight: 500;">English: Fluent (C1)</span>         
+       🇺🇸: <span style="font-size: 18px; font-weight: 500;">English: Fluent (C1)</span>         
     </div>
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;"> 
-        🇮🇷 <span style="font-size: 18px; font-weight: 500;">Persian: Native</span> 
+        🇮🇷: <span style="font-size: 18px; font-weight: 500;">Persian: Native</span> 
     </div>
     <div style="display: flex; align-items: center; gap: 10px;">
-        🇹🇷 <span style="font-size: 18px; font-weight: 500;">Turkish: Intermediate (B1)</span>  
+        🇹🇷: <span style="font-size: 18px; font-weight: 500;">Turkish: Intermediate (B1)</span>  
     </div>
 </div>
 
