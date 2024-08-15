@@ -22,23 +22,19 @@ I am a passionate front-end web developer currently expanding my expertise into 
 <div style="font-family: 'Roboto', sans-serif; padding: 20px;">
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
         <img src="https://img.icons8.com/color/48/000000/germany.png" alt="German Icon" style="width: 14px; height: 14px;">
-        <span style="font-size: 18px; font-weight: 500;">German: Very Good (B1.2 - Learning)</span>
-            <img src="https://img.icons8.com/color/48/000000/germany.png" alt="German Icon" style="width: 14px; height: 14px;">
+        <span style="font-size: 18px; font-weight: 500;">German: Very Good (B1.2 - Learning)</span>         
     </div>
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
         <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English Icon" style="width: 14px; height: 14px;">
-        <span style="font-size: 18px; font-weight: 500;">English: Fluent (C1)</span>
-            <img src="https://img.icons8.com/color/48/000000/usa.png" alt="English Icon" style="width: 14px; height: 14px;">
+        <span style="font-size: 18px; font-weight: 500;">English: Fluent (C1)</span>         
     </div>
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;"> 
             <img src="https://img.icons8.com/color/48/000000/iran.png" alt="Persian Icon" style="width: 14px; height: 14px;"> 
             <span style="font-size: 18px; font-weight: 500;">Persian: Native</span> 
-            <img src="https://img.icons8.com/color/48/000000/iran.png" alt="Persian Icon" style="width: 14px; height: 14px;"> 
     </div>
     <div style="display: flex; align-items: center; gap: 10px;">
             <img src="https://img.icons8.com/color/48/000000/turkey.png" alt="Turkish Icon" style="width: 14px; height: 14px;">
         <span style="font-size: 18px; font-weight: 500;">Turkish: Intermediate (B1)</span>  
-             <img src="https://img.icons8.com/color/48/000000/turkey.png" alt="Turkish Icon" style="width: 14px; height: 14px;">
     </div>
 </div>
 
