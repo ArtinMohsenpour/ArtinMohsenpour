@@ -1,5 +1,5 @@
 # Abolfazl Mohsenpour
-mohsenpour.artin@gmail.com | +49 163 789 4136 | 50931 Köln, Deutschland
+mohsenpour.artin@gmail.com | -- | 50931 Köln, Deutschland
 Familienstand: ledig | Geburtsdatum: 12.04.1998
 #
 `Software Deveoper | Frontend Web Developer | IT Research & Data Analysis Specialist`
